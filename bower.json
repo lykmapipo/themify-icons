@@ -2,24 +2,39 @@
     "name": "themify-icons",
     "version": "0.1.0",
     "homepage": "https://github.com/lykmapipo/themify-icons",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/lykmapipo/themify-icons"
+    },
     "description": "Pixel-perfect, hand-crafted icons that draw inspiration from Apple iOS 7",
-    "main": "themify-icons.css",
+    "main": [
+        "themify-icons.css",
+        "./fonts",
+        "./ie7/ie7.css",
+        "./ie7/ie7.js"
+    ],
     "keywords": [
         "icons",
         "line",
         "iOS",
         "pixel",
-        "perfect"
+        "perfect",
+        "draw"
     ],
     "authors": [
-        "lykmapipo <lallyelias87@gmail.com>"
+        "lykmapipo <lallyelias87@gmail.com>",
+        "themify.me <http://themify.me/themify-icons>"
     ],
-    "license": "MIT",
+    "license": ["MIT", "OFL"],
     "ignore": [
         "**/.*",
         "node_modules",
         "bower_components",
         "test",
-        "tests"
+        "tests",
+        "SVG",
+        "demo-files",
+        "index.html",
+        "Themify IconFonts 5-23-2014.json"
     ]
 }
