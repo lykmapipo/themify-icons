@@ -9,9 +9,9 @@
     "description": "Pixel-perfect, hand-crafted icons that draw inspiration from Apple iOS 7",
     "main": [
         "themify-icons.css",
-        "./fonts",
-        "./ie7/ie7.css",
-        "./ie7/ie7.js"
+        "fonts",
+        "ie7/ie7.css",
+        "ie7/ie7.js"
     ],
     "keywords": [
         "icons",
