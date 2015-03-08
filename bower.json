@@ -1,0 +1,25 @@
+{
+    "name": "themify-icons",
+    "version": "0.1.0",
+    "homepage": "https://github.com/lykmapipo/themify-icons",
+    "description": "Pixel-perfect, hand-crafted icons that draw inspiration from Apple iOS 7",
+    "main": "themify-icons.css",
+    "keywords": [
+        "icons",
+        "line",
+        "iOS",
+        "pixel",
+        "perfect"
+    ],
+    "authors": [
+        "lykmapipo <lallyelias87@gmail.com>"
+    ],
+    "license": "MIT",
+    "ignore": [
+        "**/.*",
+        "node_modules",
+        "bower_components",
+        "test",
+        "tests"
+    ]
+}
