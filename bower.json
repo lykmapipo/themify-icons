@@ -1,6 +1,6 @@
 {
     "name": "themify-icons",
-    "version": "0.1.1",
+    "version": "0.1.2",
     "homepage": "https://github.com/lykmapipo/themify-icons",
     "repository": {
         "type": "git",
@@ -8,7 +8,7 @@
     },
     "description": "Pixel-perfect, hand-crafted icons that draw inspiration from Apple iOS 7",
     "main": [
-        "themify-icons.css",
+        "css/themify-icons.css",
         "fonts",
         "ie7/ie7.css",
         "ie7/ie7.js"
